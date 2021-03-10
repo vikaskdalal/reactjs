@@ -7,7 +7,6 @@ import reportWebVitals from './reportWebVitals';
 import PixelUpload from './components/PixelUpload';
 ReactDOM.render( 
     <PixelUpload /> ,
-
     document.getElementById('root')
 );
 
